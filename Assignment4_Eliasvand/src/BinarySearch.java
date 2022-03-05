@@ -1,5 +1,4 @@
-//On my honor, I have neither received nor given any unauthorized assistance on Assignment 4.
-//Faniz Eliasvand 
+
 import java.security.SecureRandom;
 import java.util.Arrays;
 import java.util.Scanner;
